@@ -1,0 +1,4 @@
+Number of games: 0
+Number of wins: 0
+Number of loses: 0
+Win percentage: 0.0%

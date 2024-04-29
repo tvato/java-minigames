@@ -1,0 +1,5 @@
+Number of games: 1
+Player 1's number of wins: 1
+Player 2's number of wins: 0
+Player 1's win percentage: 100.0%
+Player 2's win percentage: 0.0%

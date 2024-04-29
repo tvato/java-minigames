@@ -1,0 +1,4 @@
+Number of games: 62
+Number of wins: 0
+Number of loses: 62
+Win percentage: 0.0%
